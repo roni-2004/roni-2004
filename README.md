@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Roni.</h1>
-<h3 align="center">🌐 | A passionate Web Developer aiming to Master the Art of Web Creation</h3>
+<h3 align="center">🌐 | I am a passionate web developer dedicated to mastering the art of web creation. With a strong focus on JavaScript and its frameworks, My objective is to build dynamic and user-friendly web applications.</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=roni-2004&title=Stars,Followers,Star,Repositories&theme=onedark" alt="roni-2004" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 👨‍💻 ┊ All of my projects are available at [https://github.com/roni-2004](https://github.com/roni-2004)
 
-- 💬 ┊ Ask me about **HTML, CSS and Bootstrap**
+- 💬 ┊ I'm open to discussing about **Frontend Development**, **Javascript and it's Frameworks**.
 
-- ⚡ ┊ My Passions and Pastimes: **I play Drums 🥁 and Guitar 🎸, I create Manga Animations on YouTube!**
+- ⚡ ┊ When I'm not coding, you can find me **Jamming on my drums 🥁 and Guitar 🎸OR ** Creating Manga Animations on YouTube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
