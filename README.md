@@ -11,7 +11,7 @@
 
 - 💬 ┊ I'm open to discussing about **Frontend Development**, **Javascript and it's Frameworks**.
 
-- ⚡ ┊ When I'm not coding, you can find me **Jamming on my drums 🥁 and Guitar 🎸OR ** Creating Manga Animations on YouTube!**
+- ⚡ ┊ When I'm not coding, you can find me **Jamming on my drums 🥁 and Guitar 🎸** OR **Creating Manga Animations on YouTube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
