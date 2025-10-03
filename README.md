@@ -48,13 +48,20 @@
 </td>
 <td valign="top" width="33%">
 
-### Languages  
+### Lang & Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/2048px-Claude_AI_symbol.svg.png" alt="Claude AI" width="50" height="50"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/lovable-color.png" alt="Lovable" width="50" height="50"/>  
+<img src="https://images.icon-icons.com/1381/PNG/512/mysqlworkbench_93532.png" alt="SQL Workbench" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/960px-Figma-logo.svg.png" alt="SQL Workbench" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=512&id=Pxe6MGswB8pX&format=png" alt="SQL Workbench" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=1200&id=24895&format=png" alt="SQL Workbench" width="50" height="50"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="SQL Workbench" width="50" height="50"/>
 </div>
 
 </td>
